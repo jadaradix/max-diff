@@ -1,0 +1,22 @@
+{
+  "name": "max-diff",
+  "version": "1.0.0",
+  "description": "max-diff",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadaradix/max-diff.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadaradix/max-diff/issues"
+  },
+  "homepage": "https://github.com/jadaradix/max-diff"
+}
