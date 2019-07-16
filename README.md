@@ -15,7 +15,7 @@ split at 2 -> [1, 3], [-3] -> max is 3 (L) and -3 (R); abs diff = 6 (return spli
 ```
 npm test
 
-PASS  ./index.test.js
+PASS  ./index.spec.js
   ✓ returns 2 for [1, 3, -3] (4ms)
 ```
 
